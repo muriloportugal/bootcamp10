@@ -5,8 +5,9 @@
 [RocketSeat](https://rocketseat.com.br/)  
 
 ## :rocket: Sobre
-Repositório com os módulos e desafios do GoStack BootCamp 10.
+Repositório com os módulos e desafios do GoStack BootCamp 10.  
 
+:heavy_check_mark: Fase 1 - Ambiente e Dicas  
 :heavy_check_mark: Fase 2 - Dominando Node.js  
 :heavy_check_mark: Desafio 1 - Conceitos do NodeJS  
 
