@@ -8,8 +8,10 @@
 Repositório com os módulos e desafios do GoStack BootCamp 10.  
 
 :heavy_check_mark: Fase 1 - Ambiente e Dicas  
-:heavy_check_mark: Fase 2 - Dominando Node.js  
 :heavy_check_mark: Desafio 1 - Conceitos do NodeJS  
+:heavy_check_mark: Fase 2 - Dominando Node.js  
+:heavy_check_mark: Fase 2 - Iniciando back-end do GoBarber  
+ 
 
 ## :memo: Licença
 
