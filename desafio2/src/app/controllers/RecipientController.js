@@ -110,7 +110,16 @@ class RecipientController {
       return res.status(400).json({ error: 'Validations fails' });
     }
 
-
+    const recipient = await Recipient.findByPk(req.params.id);
+    recipient.name = req.body.name;
+    recipient.street = req.body.street;
+    recipient.number = req.body.number;
+    recipient.complement = req.body.complement;
+    recipient.state = req.body.state;
+    recipient.city = req.body.city;
+    recipient.zip_code = req.body.zip_code;
+    await recipient.save();
+    return res.json(recipient);
   }
 }
 
